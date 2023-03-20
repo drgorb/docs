@@ -16,5 +16,7 @@ The following is an example of how to create a a set of keypairs suitable for ge
 </TsJsBlock>
 
 :::info
-This example doesn't show how to store the keys. It is recommended to store the keys in a secure manner, e.g. only storing the private keys encrypted on disk. The mnemonic seed phrase can be used to regenerate the keys, so it is recommended to also store the seed in a secure manner.
+This example doesn't show how to store the keys.
+It is recommended to store the keys in a secure manner, e.g. only storing the private keys encrypted on disk.
+The mnemonic seed phrase can be used to regenerate the keys, so it is recommended to also store the mnemonic in a secure manner and create a backup of it.
 :::
